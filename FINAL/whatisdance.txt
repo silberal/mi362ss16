@@ -1,0 +1,37 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Alexis's World of Dance</title>
+<link href="final.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<a href="index.html"><img src="banner2.jpg" width="892" height="220" alt="Alexis Banner" /></a>
+<h1>Welcome to the World of Dance <i class="fa fa-heart-o" aria-hidden="true"></i></h1>
+<ul id="nav">
+	<li><a href="index.html">Home</a></li>
+    <li><a href="aboutme.html">What is dance?</a></li>
+    <li><a href="personalinfo.html">Why dance?</a></li>
+    <li><a href="funnylol.html">Who dances?</a></li>
+    <li><a href="page5.html">About the Author</a></li>
+</ul>
+<h2>What is dance? Can it be described?</h2>
+<div id="main_content">
+In my experience with dancing, it has always been definited as an escape from reality. You let the beat flow through your veins and let your body talk to the world. You get lost in the music and let in engulf you in its rhythmic nature. It lets you express yourself in a way that you feel most comfortable with yourself. Dance allows one to be at peace with themselves. Say you have had a hard day; the stresses of work and the bussiness of life have made your mind a tornado of emotions. Sitting in traffic during a long commute home? Turn up the radio. Put in your favorite cd. Find a new station on XM radio. Allow yourself to bop your head to the music and fingers tap along on the steering wheel. Create your own band where you play every air-style instrument-air guitar, air drums, air trumpet! When you arrive home and have to clean the house and make dinner, turn on some music and let yourself be free of stress as you dance around the kitchen. You might not realize it, but you have been smiling the whole time dancing around the living room. Now it is a Saturday night and your special someone takes you out to a nice club. You see others dancing as if they do it for a living. Your significant other takes your hand and leads you to the dance floor. You are apprehensive but owe it to yourself to just get funky. A latin song comes on and your partner takes you close. At that moment you let them lead you and it feels as though you are having an outer-body experience; you are swaying and leaping across the floor effortlessly. Your smile is brighter than the lights that rain upon the dance floor. You feel an intense passion with your dance partner that makes you feel alive. Everyone claps as the song draws to an end, and you are stunned and grateful to have had that dance. Dance has allowed you to feel strength emotionally and  physically, and took you to a place away from the hustle and bustle of the world. <i>Now, can I have this dance?</i> 
+
+</div>
+<div id="footer">
+<p class="special">
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+</p>
+    <p>Copyright &copy; 2016 Alexis Silber. All rights reserved. Don't take my work, fool! <br />
+    Created for MI 362: Web Design at Michigan State University.<br /></p>
+</div><!--END #footer-->
+
+
+</body>
+</html>
+

@@ -1,0 +1,8 @@
+100 - Hosted on Heroku (Required) - http://warm-cove-14303.herokuapp.com/
+100 - Custom domain name (Required) - asilber.crabdance.com
+100 - Instructor/discretionary (Required, looking for quality, originality, spelling/grammer, overall project polish) 
+300 - 4 complete HTML pages with content - What is dance?, Why dance?, Who dances?, About the Author
+200 - Custom CSS or Bootstrap for design (all pages) - See CSS text file (finalcss.txt)
+100 - Use a Heroku add-on in your project - index page uses <camera>tag add-on (https://devcenter.heroku.com/articles/cameratag)
+50 - Use at least two custom images (original photography or illustration) - Why dance? page has 2 original photographs
+50 - Use a 3rd party font icon like FontAwesome - underneath the banner on all pages I used a FontAwesome icon of a heart next to "Welcome to the World of Dance"

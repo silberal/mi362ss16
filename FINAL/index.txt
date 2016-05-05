@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+<head>
+<script src='//cameratag.com/api/v8/js/cameratag.js' type='text/javascript'></script>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Alexis's World of Magic</title>
+<link href="final.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<a href="index.html"><img src="banner2.jpg" width="892" height="220" alt="Alexis Banner" /></a>
+<h1>Welcome to the World of Dance <i class="fa fa-heart-o" aria-hidden="true"></i></h1>
+<ul id="nav">
+	<li><a href="index.html">Home</a></li>
+    <li><a href="aboutme.html">What is dance?</a></li>
+    <li><a href="personalinfo.html">Why dance?</a></li>
+    <li><a href="funnylol.html">Who dances?</a></li>
+    <li><a href="page5.html">About the Author</a></li>
+</ul>
+<div id="main_content">
+	<h2>"To watch us dance is to hear our hearts speak."</h2>
+    <h3>Please visit the above navigation to learn more about the World of Dance. Thank you!</h3>
+    <p>Check out our hip hop dance from last year's recital!</p>
+    <video id='rando' data-uuid='["v-6d3c9742-2e1c-4579-83c5-f52edc5286a4"]'></video>
+
+
+    
+</div>	
+</body>
+</html>

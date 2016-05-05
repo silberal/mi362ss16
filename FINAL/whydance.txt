@@ -1,0 +1,50 @@
+<!doctype html>
+<html>
+<head>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.1/css/font-awesome.min.css">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Alexis's World of Dance</title>
+<link href="final.css" rel="stylesheet" type="text/css"/>
+</head>
+
+<body>
+<a href="index.html"><img src="banner2.jpg" width="892" height="220" alt="Alexis Banner" /></a>
+<h1>Welcome to the World of Dance <i class="fa fa-heart-o" aria-hidden="true"></i></h1>
+<ul id="nav">
+	<li><a href="index.html">Home</a></li>
+    <li><a href="aboutme.html">What is dance?</a></li>
+    <li><a href="personalinfo.html">Why dance?</a></li>
+    <li><a href="funnylol.html">Who dances?</a></li>
+    <li><a href="page5.html">About the Author</a></li>
+</ul>
+<div id="main_content">
+
+
+<h2>Why Do I dance?</h2>
+<h3>Find myself and lose myself, at the same time</h3>
+
+<img src="group2.jpg" alt="Jazz dance" style="float:right;width:380px;height:270px;">
+	<h2>"Be still and know that I'm with you."</h2>
+    <p>I dance here at Michigan State University on the MSU Dance Club. Each year we have an end of the semester recital that showcases the dances we have learned this year. We invite family and friends, and anyone who is interested in watching us dance! One of the dances I was grateful to be apart of was a tribute dance to those we have lost. This piece really touched my heart because I have recently lost both of my grandpas and an uncle who would always come to my recitals and watch me dance on stage. They loved to see me perform and supported me throughout the years. I would see them in the audience smiling, waving, and cheering me on. We danced this number for our loved ones watching us dance from above.</p> 
+<img src="group1.jpg" alt="Jazz dance" style="float:left;width:380px;height:280px;">
+<p>I have met some pretty amazing people from joining the Michigan State University Dance Club. I met these girls my sophomore year and we have been inseparable ever since! I am so lucky to know them. We became so close because we all share a love and passion for dance. This photo is from our recital last year. We did a fun jazz dance to a Christina Aguilera mix. On Sundays in Dance Club we have 2-3 hour workshops where we meet up together and work on our technique. We go across the floor and our choreographer of the day (one of us) decides what skill we will aim to get better at that day. After we finish, we then learn a dance. The choreographer can choose whichever genre they like. I prefer jazz or lyrical, but sometimes like getting down to hip hop! In total we learn about 20 different dances by the end of the year. We get to perform those dances at our recital too if we choose. I love dance club because it has introduced me to many different styles of dance and has helped me become a stronger dancer. I made wonderful friends, too!  </p>
+   
+
+
+
+
+
+
+<div id="footer">
+<p class="special">
+    <a href="http://validator.w3.org/check?uri=referer"><img
+      src="http://www.w3.org/Icons/valid-xhtml10" alt="Valid XHTML 1.0 Transitional" height="31" width="88" /></a>
+</p>
+    <p>Copyright &copy; 2016 Alexis Silber. All rights reserved. Don't take my work, fool! <br />
+    Created for MI 362: Web Design at Michigan State University.<br /></p>
+</div><!--END #footer-->
+
+
+</body>
+</html>
+

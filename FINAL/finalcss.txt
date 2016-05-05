@@ -1,0 +1,162 @@
+@charset "UTF-8";
+/* Alexis Silber's CSS Document.
+ Color Scheme
+ dark purple: #722f40
+ beige: #f1d399
+ light purple: #f27983
+ magenta/middle purple: #a5465e
+ desert pink: #f2b999
+ blue: #9BD7D5
+
+*/
+
+/* the html element below is the "background" of your page */
+html {
+	background-repeat: repeat;
+	background-image: url(TileBackground.png);
+}
+
+body {
+	width: 900px;
+	margin: 1.5em auto; /*centers the content*/
+	border: 7px dashed #060000;
+	background-color: #F3C5C6;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 1em;
+}
+
+h1 {
+	text-align: center;
+	color: #10C875;
+}
+
+
+h2 {
+	color: #a5465e;
+}
+
+
+h3 {
+	color: #EDDEDE;
+	background-color: #AE26C0;
+	padding-top: 15px;
+	padding-right: 15px;
+	padding-bottom: 15px;
+	padding-left: 15px;
+	}
+
+p {
+	margin: 15px;
+}
+
+#main_content {
+	padding: 15px;
+	color: #1F3AB9;
+}
+
+
+
+/* NAVIGATION SECTINO*/
+
+#nav {
+	background-color: #E09E9F;
+	align: center;
+	list-style: none;
+	text-align: center;
+	padding: 4px;
+	border: ridge;
+
+
+}
+
+ul#nav {
+	margin: 0;
+}
+
+
+
+#nav li {
+  	display:inline;
+	-webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+}
+
+#nav a {
+	color: #726969;
+	border: double;
+	padding-right: 10px;
+	padding-left: 30px;
+	border-left-width: 10px;
+	border-left-style: dotted;
+	border-left-color: #000000;
+	padding-top: 2px;
+	padding-bottom: 2px;
+	-webkit-transition: 1s ease-in-out;
+    -moz-transition: 1s ease-in-out;
+    -o-transition: 1s ease-in-out;
+    transition: 1s ease-in-out;
+}
+
+
+#nav a:hover {
+	text-decoration: none;
+	color: #2CBAD9;
+
+}
+
+ul {
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+ol {
+	margin-left: 40px;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+
+
+/* IMPORTANT: this will put a border around ALL images - so the banner AND the image of you. You may want to remove the border or change it! */
+img {
+	border-color: #10C875;
+	border-style: solid;
+	border-width: 4px;
+	float:right;
+}
+
+a {
+	color: #710F90;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #28D9DC;
+	text-decoration: overline;
+}
+
+a:visited {
+	color: #EB0917;
+}
+
+a:active {
+	text-decoration: underline;
+	background-color: #710F90;
+}
+
+
+#footer {
+	background-color: #10C875;
+	padding: 10px;
+	margin-bottom: -5px;
+	font-size: small;
+}
+
+.break:after {
+    content:"\a";
+    white-space: pre;
+}
