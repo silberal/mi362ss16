@@ -6,3 +6,5 @@
 100 - Use a Heroku add-on in your project - index page uses <camera>tag add-on (https://devcenter.heroku.com/articles/cameratag)
 50 - Use at least two custom images (original photography or illustration) - Why dance? page has 2 original photographs
 50 - Use a 3rd party font icon like FontAwesome - underneath the banner on all pages I used a FontAwesome icon of a heart next to "Welcome to the World of Dance"
+-----------
+1000
